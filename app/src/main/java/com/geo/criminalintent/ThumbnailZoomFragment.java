@@ -1,6 +1,5 @@
 package com.geo.criminalintent;
 
-import android.app.Activity;
 import android.app.Dialog;
 import android.graphics.Bitmap;
 import android.os.Bundle;
@@ -12,8 +11,6 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 import java.io.File;
-import java.util.Date;
-import java.util.GregorianCalendar;
 
 public class ThumbnailZoomFragment extends DialogFragment {
 
